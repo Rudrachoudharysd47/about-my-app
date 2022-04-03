@@ -1,0 +1,23 @@
+Hey my name is rudrapratap Singh Choudhary
+so i have an idea for the app i am gona build for white-Hatjr. Lets start
+///////////////////////////////////////////////////////////////////////////////////////////////////
+think what if you have heard about a game from your friend and then you want to install it but ,
+you go to playstore,apple store etc. but you are not able to find the game or you want to go to any
+website, want to download any browser any app etc, but it is taking to long to find it you are 
+getting some fake links for the website and can't find the real one so dont worry. my app is with you
+you can search name of any website,game,app etc,and then you will get its correct link and then 
+you have saved your 10m 
+
+now what i am gona build in the app is 
+1: YOU HAVE TO LOGIN/SIGNIN FIRST 
+2: YOU WILL BE TELEPORTED TO HOME PAGE 
+3: THERE WILL BE 4 BARS 3 TAB-NAVIGATOR AND 1 DRAWER-NAVIGATOR 
+4: THE 3 BARS WILL BE OF HOME-PAGE 2 ON WILL BE OF SEARCH FROM WHERE YOU WILL SEARCH AND LAST 
+BAR OF TAB-NAVIGATOR WILL BE PROFILE 
+5: THE DRAWER-NAVIGATOR BAR WILL BE FOR SIGNUP/LOGOUT
+
+
+
+6: for this i have to make a login and logout screen then profile,home,search.
+7: finally we will add some styling's and there you go our app is ready to LAUCH 
+
